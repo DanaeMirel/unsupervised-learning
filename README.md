@@ -34,3 +34,12 @@ the output from the input data
 
 2. **Unsupervised Learning**: data is unlabeled and the program learns to 
 recognize the inherent structure in the input data
+
+# Case study 
+
+In order to illustrate a clustering analysis, we used human breast mass data with 
+
+- Ten features measured of each cell nuclei
+- Summary information is provided for each group of cells
+- Includes diagnosis: benign (not cancerous) and malignant (cancerous)
+
